@@ -40,7 +40,7 @@ extension SecondViewController {
         viewTop.backgroundColor = .purple
         view.addSubview(viewTop)
         
-        viewLeftMiddle.backgroundColor = .gray
+        viewLeftMiddle.backgroundColor = .yellow
         view.addSubview(viewLeftMiddle)
         
         viewRightMiddle.backgroundColor = .orange
